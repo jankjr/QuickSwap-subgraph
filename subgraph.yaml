@@ -6,9 +6,9 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: Factory
-    network: matic
+    network: bsc
     source:
-      address: '0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32'
+      address: '0x10ed43c718714eb63d5aa57b78b54704e256024e'
       abi: Factory
       startBlock: 5484576
     mapping:
